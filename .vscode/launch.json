@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - SpeedConverter",
+      "request": "launch",
+      "mainClass": "SpeedConverter",
+      "projectName": "theia_de065f40"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - UserSquares",
       "request": "launch",
       "mainClass": "UserSquares",
